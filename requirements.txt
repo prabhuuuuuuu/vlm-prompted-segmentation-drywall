@@ -1,0 +1,10 @@
+transformers==4.40.0
+roboflow
+torch
+torchvision
+opencv-python-headless
+matplotlib
+scikit-learn
+tqdm
+Pillow
+numpy
