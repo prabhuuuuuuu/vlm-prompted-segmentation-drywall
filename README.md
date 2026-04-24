@@ -1,7 +1,10 @@
 # Prompted Segmentation for Drywall QA
-### AI Research Intern — Take-Home Assignment | Origin (formerly 10xConstruction)
-**Pranav Prashant Shewale** &nbsp;|&nbsp; Seed: 42 &nbsp;|&nbsp; Device: CUDA (Colab T4)
-[![Open In Colab](https://colab.research.google.com/drive/1kOUcWBFAuWFWUTDwcDMnD2Mk0emvosIX?usp=sharing)]
+**AI Research Intern — Take-Home Assignment | Origin (formerly 10xConstruction)**
+
+**Pranav Prashant Shewale** | Seed: 42 | Device: CUDA (Colab T4)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kOUcWBFAuWFWUTDwcDMnD2Mk0emvosIX?usp=sharing)
+
 ---
 
 ## Results at a Glance
