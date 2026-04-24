@@ -1,0 +1,4 @@
+# Ignore model weights
+*.pt
+*.pth
+*.h5
